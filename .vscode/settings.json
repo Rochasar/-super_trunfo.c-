@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "SuperTrunfoNovato.C": "cpp",
+        "SuperTrunfoIntermediario.C": "cpp",
+        "SuperTrunfoAventureiro.C": "cpp",
+        "SuperTrunfoMestre.C": "cpp"
+    }
+}
