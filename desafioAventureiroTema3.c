@@ -1,4 +1,4 @@
-// Super Trunfo em C, nível novato tema3
+// Super Trunfo em C, nível Aventureiro tema3
 #include <stdio.h>
 
 int main() {
