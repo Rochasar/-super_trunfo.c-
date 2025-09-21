@@ -115,6 +115,7 @@ int main() {
     printf("Super Poder: %.2f\n", superPoder2);
 
     int resultado; // variável criada para comparar as cartas
+    int escolha;
 
   //Menu criado, para separação de atributos e que o usuário possa escolher qual atributo comparar.
 
